@@ -252,7 +252,7 @@ img {
 }
 
 .background-linear {
-    background-image: repeating-linear-gradient( 45deg, #eee 16px, #eee 15px, transparent 20px, transparent 20px);
+    background-image: repeating-linear-gradient(45deg, #eee 16px, #eee 15px, transparent 20px, transparent 20px);
 }
 
 .border-bottom {
@@ -1316,7 +1316,7 @@ section.contact__section1 {
 }
 
 .product__list__section1-right .item {
-    background-image: repeating-linear-gradient( 45deg, #eee 16px, #eee 15px, transparent 20px, transparent 20px);
+    background-image: repeating-linear-gradient(45deg, #eee 16px, #eee 15px, transparent 20px, transparent 20px);
 }
 
 .product__list__section1-right .item__content {
