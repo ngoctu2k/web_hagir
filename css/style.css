@@ -691,14 +691,14 @@ img {
     color: blue;
 }
 
-.thumbnail img {
+.background-linear .thumbnail img {
     height: 222px;
     width: 222px;
     max-width: 100%;
     padding: 0 40px;
 }
 
-.thumbnail h4 {
+.background-linear .thumbnail h4 {
     font-size: 23px;
     font-weight: 700;
     margin: 20px 0 30px 0;
@@ -706,7 +706,7 @@ img {
     padding: 0 40px;
 }
 
-.thumbnail .button-bottom {
+.background-linear .thumbnail .button-bottom {
     display: flex;
     align-items: center;
     justify-content: space-between;
